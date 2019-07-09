@@ -1,0 +1,13 @@
+{
+  "name": "osh",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "request": "^2.88.0"
+  }
+}
